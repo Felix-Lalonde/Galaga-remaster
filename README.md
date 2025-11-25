@@ -2,10 +2,10 @@
 Voici une version remaster du jeu Galaga codé en Python.
 
 Nouvelle fonctionnalité par rapport au jeu original:
- -Nouveau mouvements pour le joueur : on bouge en (x, y).
- -Nouveaux mouvements d’ennemis : horizontal, arrive_top/bottom, random, chase.
- -Power-ups : double canons (mécanique différente)
- -Projectiles dynamiques en direction du joueur.
+-Nouveau mouvements pour le joueur : on bouge en (x, y).
+-Nouveaux mouvements d’ennemis : horizontal, arrive_top/bottom, random, chase.
+-Power-ups : double canons (mécanique différente)
+-Projectiles dynamiques en direction du joueur.
 
 Ce jeu est adapté pour une résolution d'écran en 1080 x 1880 (en mode portrait).
 
