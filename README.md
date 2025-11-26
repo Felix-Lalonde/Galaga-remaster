@@ -35,7 +35,6 @@ Si une manette de PS4 est branché tout va marcher d'un coup.
 Une manette de PS5 devrait fonctionner aussi.
 Si la direction ne correspond pas a ce qui est à l'écran il faut ajuster le mapping des joysticks:
 
-if len(joysticks) > 0 and not game_over:
 x = round(pygame.joystick.Joystick(0).get_axis(0))*35 #0 est laxe x sur manette de ps4
 y = round(pygame.joystick.Joystick(0).get_axis(1))*35 #1 est laxe y sur manette de ps4
         
